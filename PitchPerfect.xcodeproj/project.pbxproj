@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A6AA76D26AD2FC100D5442E /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6AA76C26AD2FC100D5442E /* PlaySoundsViewController.swift */; };
 		3AFFAF96266AD05C00DFD9C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AFFAF95266AD05C00DFD9C3 /* AppDelegate.swift */; };
 		3AFFAF98266AD05C00DFD9C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AFFAF97266AD05C00DFD9C3 /* SceneDelegate.swift */; };
 		3AFFAF9A266AD05C00DFD9C3 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AFFAF99266AD05C00DFD9C3 /* RecordSoundsViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A6AA76C26AD2FC100D5442E /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
 		3AFFAF92266AD05C00DFD9C3 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AFFAF95266AD05C00DFD9C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AFFAF97266AD05C00DFD9C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				3AFFAF9E266AD05D00DFD9C3 /* Assets.xcassets */,
 				3AFFAFA0266AD05D00DFD9C3 /* LaunchScreen.storyboard */,
 				3AFFAFA3266AD05D00DFD9C3 /* Info.plist */,
+				3A6AA76C26AD2FC100D5442E /* PlaySoundsViewController.swift */,
 			);
 			path = PitchPerfect;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				3AFFAF9A266AD05C00DFD9C3 /* RecordSoundsViewController.swift in Sources */,
 				3AFFAF96266AD05C00DFD9C3 /* AppDelegate.swift in Sources */,
+				3A6AA76D26AD2FC100D5442E /* PlaySoundsViewController.swift in Sources */,
 				3AFFAF98266AD05C00DFD9C3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
