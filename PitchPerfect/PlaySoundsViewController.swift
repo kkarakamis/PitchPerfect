@@ -44,7 +44,8 @@ class PlaySoundsViewController: UIViewController {
             playSound(reverb: true)
         }
 
-        configureUI(.playing)    }
+        configureUI(.playing)
+    }
 
     @IBAction func stopButtonPressed(_ sender: AnyObject) {
         stopAudio()
@@ -56,7 +57,6 @@ class PlaySoundsViewController: UIViewController {
         
 //        shiftButton.contentMode = .Center
 //        shiftButton.imageView?.contentMode = .ScaleAspectFit
-        
         // Do any additional setup after loading the view.
     }
     override func viewWillAppear(_ animated: Bool) {
